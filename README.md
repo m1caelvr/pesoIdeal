@@ -1,9 +1,20 @@
 # pesoIdeal
-Projeto pessoal com base no estudo de IMCs ideais para cada pessoa.
+Projeto pessoal com base no estudo de IMCs ideais para cada pessoa. <br>
 <p>
-  acesse o site em: <br>
-  https://weightcalculator-webmind.netlify.app
+  <b>
+    acesse o site em: <br>
+    https://weightcalculator-webmind.netlify.app
+  </b>
 </p>
 <br>
-![image](https://github.com/m1caelvr/pesoIdeal/assets/134837371/dbbb78c5-47e5-4547-8f83-304275e65c77)
-
+<table>
+  <tr>
+    <td><img src="./pesoIdeal/imgProject/desk.png" alt="Image desktop"></td>
+  </tr>
+  <tr>
+    <td><img src="./pesoIdeal/imgProject/deskResult.png" alt="Image desktop"></td>
+  </tr>
+  <tr>
+    <td><img src="./pesoIdeal/imgProject/mobile.png" alt="Image desktop"></td>
+  </tr>
+</table>
